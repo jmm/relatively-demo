@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "license": "MIT",
+  "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
+  "dependencies": {
+    "relatively": "^0.1.0"
+  }
+}
